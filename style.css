@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(85, 114, 87);
+    color: azure;
+    font-family: "Boldonse", sans-serif;
+}
+
+img{
+    width: 350px;
+    height: 260px;
+    border: 10px solid;
+    border-color: black;
+    border-radius: 20%;
+}
+
+#main{
+    display: block;
+    font-family: "Boldonse", sans-serif;
+    color: black;
+    text-align: center;
+}
+
